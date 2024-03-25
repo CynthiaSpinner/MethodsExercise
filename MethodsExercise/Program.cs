@@ -8,6 +8,7 @@ namespace MethodsExercise
 {
     class Program
     {
+        //exercise two
 
         public static int Add(params int[] numbers)
         {
@@ -40,6 +41,9 @@ namespace MethodsExercise
             Console.ReadLine();
 
             Console.Clear();
+
+
+            //exercise one
 
             Console.WriteLine("What is your name?");
             var userName = Console.ReadLine();
